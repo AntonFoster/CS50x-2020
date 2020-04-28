@@ -142,5 +142,5 @@ string cardType(string cardno)
         return "VISA";
     }
 
-    return "UNKNOWN";
+    return "INVALID";
 }
